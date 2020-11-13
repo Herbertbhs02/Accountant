@@ -1,0 +1,60 @@
+.masterhome{
+  margin-top: 0.5%;
+}
+
+
+.home {
+    min-height: calc(70vh - 70px);
+    margin-top: 1%; 
+    padding: 10px;
+    background-image: url(../../src/images/spreadsheet.jpg);
+    background-position: center; 
+    background-size: cover;
+    font-weight: bold;
+    
+    
+  }
+
+  .home1 {
+    min-height: calc(70vh - 70px);
+    margin-top: 1%; 
+    padding: 10px;
+    background-color: #dcdcdc ;
+    
+    
+    
+  }
+
+  .home2 {
+    min-height: calc(70vh - 70px);
+    margin-top: 1%; 
+    padding: 10px;
+    background-color: #dcdcdc ;
+    
+    
+  }
+
+  .home3 {
+    min-height: calc(70vh - 70px);
+    margin-top: 1%; 
+    padding: 10px;
+    background-color: #dcdcdc ;
+  
+  }
+
+  .textback{
+    
+    
+    color: rgb(25,25,112);
+    margin-top: 3%;
+    font-weight: bold;
+    font-size: large;
+    
+  }
+
+  img{
+    border-radius: 10px;
+    margin-top: 20%;
+    margin-left: 25%;
+    
+  }
