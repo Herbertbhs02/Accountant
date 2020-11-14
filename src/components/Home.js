@@ -3,8 +3,7 @@ import Slider from "react-slick";
 import '../Style/Home.css';
 import laptop from '../images/laptop.jpg';
 import notebook from '../images/notebook.jpg';
-
-import back5 from '../images/back5.jpg';
+import stock from '../images/stock.jpg';
 
 //set arrow background color
 function SampleNextArrow(props) {
@@ -46,12 +45,12 @@ export default class Home extends Component {
       
     };
     return (
-      <div className="container masterhome">
+      <div className="container masterhome left-align">
          
         <Slider {...settings}>
           <div className="row home1 ">
            
-          <div className="col s12 l6 textback">
+          <div className="col s12 l6 textback ">
                               <h5>Welcome</h5>
                         <p>Here at Frampton House Accountants, our goal is to ensure you and your business
                           are compliant, take advantage of available allowances and tax breaks, and support
@@ -74,7 +73,7 @@ export default class Home extends Component {
                           know about us. We hope you enjoy our site and take a moment to drop us a line.</p>  
                   </div>
                   <div className="col s12 l6">
-                  <img src={notebook} width="300" alt="photo" className="responsive-img" />
+                  <img src={laptop} width="300" alt="photo" className="responsive-img" />
                   </div>
             
           </div>
@@ -89,7 +88,7 @@ export default class Home extends Component {
                           know about us. We hope you enjoy our site and take a moment to drop us a line.</p>  
                   </div>
                   <div className="col s12 l6">
-                  <img src={notebook} width="300" alt="photo" className="responsive-img" />
+                  <img src={stock} width="300" alt="photo" className="responsive-img" />
                   </div>
             
           </div>

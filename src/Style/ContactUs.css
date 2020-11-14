@@ -9,15 +9,11 @@
   }
 
   .line {
-    
-    text-align: center; 
-    border-bottom: 2px dotted rgb(25,25,112); 
-    line-height: 0.1em;
-    margin: 10% 16% 5% 16%;
-    text-shadow: 2px 1px #494848;
-    
-  
-
+      text-align: center; 
+      border-bottom: 2px dotted rgb(25,25,112); 
+      line-height: 0.1em;
+      margin: 10% 16% 5% 16%;
+      text-shadow: 2px 1px #494848;
   }
 
   .line span { 

@@ -1,6 +1,34 @@
-.about {
+.aboutus {
     min-height: calc(70vh - 70px);
     
   }
 
+  .aboutline {
+    text-align: center; 
+    border-bottom: 2px dotted rgb(25,25,112); 
+    line-height: 0.1em;
+    margin: 4% 16% 5% 16%;
+    text-shadow: 2px 1px #494848;
+}
+
+.aboutline span { 
+  background:#fff; 
+  padding-bottom:10px; 
+  font-size: xx-large;
+  
+}
+
+.aboutrow {
+  margin:4%; 
+  padding:0% 2% 2% 2%;
+  background-color: #dcdcdc ;
  
+  border-radius: 5px;
+
+}
+
+.aboutrow:hover{
+  position: relative;
+ top:-8px ;
+
+}
