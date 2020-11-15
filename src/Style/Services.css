@@ -2,3 +2,28 @@
     min-height: calc(70vh - 70px);
     
   }
+
+  .servicesline {
+    text-align: center; 
+    border-bottom: 2px dotted rgb(25,25,112); 
+    line-height: 0.1em;
+    margin: 10% 16% 5% 16%;
+    text-shadow: 2px 1px #494848;
+}
+
+.servicesline span { 
+  background:#fff; 
+  padding:0 20px; 
+  font-size: xx-large;
+  
+}
+
+.service_col:hover{
+  position: relative;
+ top:-8px ;
+
+}
+
+.serviceImage{
+  margin: 1% 1% 4% 0%;
+}

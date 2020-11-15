@@ -13,7 +13,7 @@
 
 .aboutline span { 
   background:#fff; 
-  padding-bottom:10px; 
+  padding:10px; 
   font-size: xx-large;
   
 }
@@ -31,4 +31,12 @@
   position: relative;
  top:-8px ;
 
+}
+
+.aboutImage{
+  margin: 10% 0% 0% 0%;
+}
+
+.aboutImage2{
+  margin: 23% 0% 0% 0%;
 }

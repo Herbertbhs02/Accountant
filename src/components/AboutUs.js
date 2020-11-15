@@ -6,20 +6,20 @@ import freeagent from '../images/freeagent.png';
 const AboutUs = () => {
   return (
     <div className="aboutus">
-      <div className="aboutline"><span>ABOUT US</span></div>
+      <div className="aboutline"><span>Our Story</span></div>
             
             <div className="row aboutrow z-depth-3">
 
-            <div className="col s12 l6">
-                  <img src={notebook} width="300" alt="photo" className="responsive-img" />
+            <div className="col s12 l8">
+                <img className="aboutImage responsive-img" src="https://img1.wsimg.com/isteam/stock/o36Jkzj/:/cr=t:0%25,l:0%25,w:100%25,h:75%25/rs=w:600,h:300,cg:true" alt="photo" />
                   </div>
-            <div className="col s12 l6 textback left-align ">
-                              <h5>Welcome</h5>
-                        <p>Here at Frampton House Accountants, our goal is to ensure you and your business
-                          are compliant, take advantage of available allowances and tax breaks, and support
-                          you in your growth ambitions. </p>
-                        <p>There's much to see here. So, take your time, look around, and learn all there is to
-                          know about us. We hope you enjoy our site and take a moment to drop us a line.</p>  
+            <div className="col s12 l4 textback left-align ">
+                              <h5>History</h5>
+                        <p>The business was started in 2012 by Ade Okubanjo who had a vision of supporting growth of businesses by giving
+                           them unrivaled access to a qualified accountant. Many of our clients told us we stand out from others because they
+                            can talk to us and receive answers to queries and support in a simplified manner without complex accounting jargons. 
+                            Our business ethos is deeply rooted in the ability to build a meaningful relationship with our clients and help them succeed.</p>
+                       
                   </div>
             </div>
    
@@ -40,10 +40,10 @@ const AboutUs = () => {
    </div>
    <div className="row aboutrow z-depth-3">
         <div className="col s12 l5">
-                  <img src={notebook} width="300" alt="photo" className="responsive-img" />
+                  <img className="aboutImage2 responsive-img" src="https://img1.wsimg.com/isteam/stock/lrre3B6/:/cr=t:0%25,l:0%25,w:100%25,h:75%25/rs=w:600,h:300,cg:true" alt="photo"  />
         </div>
             <div className="col s12 l7 textback left-align ">
-                              <h5>What you ge</h5>
+                              <h5>What you get</h5>
                 <ul class="collection">     
                     <li class="collection-item" >You always have direct access to a qualified accountant</li>  
                     <li class="collection-item" >We prepare your accounts in advance of the relevant deadlines so you know how much tax you owe well before you need to pay.</li>
