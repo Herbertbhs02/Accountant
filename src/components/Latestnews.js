@@ -5,6 +5,8 @@ const Latestnews = () => {
   return (
     <div className="news">
       <h2>Latest news</h2>
+
+    
       
       
     </div>

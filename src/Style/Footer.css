@@ -6,3 +6,8 @@
 .ft{
     margin: 0px 2% 0px 2%;
 }
+
+.blockquote{
+    border-left: 3px solid white;
+
+}

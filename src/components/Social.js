@@ -7,7 +7,7 @@ class Social extends Component{
       //code to activate tooltip message on hover
     document.addEventListener('DOMContentLoaded', function() {
       var elems = document.querySelectorAll('.tooltipped');
-      var instances = M.Tooltip.init(elems, {});
+       M.Tooltip.init(elems, {});
 
     });
 }

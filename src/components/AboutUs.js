@@ -1,6 +1,5 @@
 import React from 'react';
 import '../Style/AboutUs.css';
-import notebook from '../images/notebook.jpg';
 import freeagent from '../images/freeagent.png';
 
 const AboutUs = () => {

@@ -8,7 +8,7 @@ const Sidebar = () => {
     useEffect(() => {
         //code to activate sidenav bar.
           var elems = document.querySelectorAll('.sidenav');
-          var instances = M.Sidenav.init(elems, {});
+           M.Sidenav.init(elems, {});
       });
 
   return (
