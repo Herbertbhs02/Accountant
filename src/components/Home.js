@@ -96,7 +96,7 @@ export default class Home extends Component {
           <div class="card  z-depth-3 grey lighten-3">
             <div class="card-content black-text">
               <span class="card-title"><p>Aqua Group Ltd</p></span>
-              <img className="testimonialImage " alt="photo"  src="https://img1.wsimg.com/isteam/ip/45e539b8-1934-46a4-8510-970be3fa6e0d/3bdf32c3-4f8d-4b32-8653-1bac77922156.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:365,h:365,cg:true"/>
+              <img className="testimonialImage responsive-img" alt="photo"  src="https://img1.wsimg.com/isteam/ip/45e539b8-1934-46a4-8510-970be3fa6e0d/3bdf32c3-4f8d-4b32-8653-1bac77922156.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:365,h:365,cg:true"/>
                 <h4>They are thoroughly knowledgeable</h4>
               <p>After many many years of searching for a proactive, friendly and professional accounting firm I can honestly say we are extremely happy with the service 
                 we have received from Frampton House.For years we battled with Accountants who were out of touch with modern accounting methods, unable to keep us informed in an understandable manner a</p>
