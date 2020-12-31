@@ -18,7 +18,7 @@ const Sidebar = () => {
         <li><NavLink  to='/' className="btn sidenav-close">HOME</NavLink></li>
         <li><NavLink  to='/AboutUs' className="btn sidenav-close">ABOUT US</NavLink></li>
         <li><NavLink  to='/Services' className="btn sidenav-close">SERVICES</NavLink></li>
-        <li><NavLink  to='/Latestnews' className="btn sidenav-close">LATEST NEWS</NavLink></li>
+        {/* <li><NavLink  to='/Latestnews' className="btn sidenav-close">LATEST NEWS</NavLink></li> */}
         <li><NavLink  to='/ContactUs' className="btn sidenav-close">CONTACT US</NavLink></li>
        </ul>
     </div>
